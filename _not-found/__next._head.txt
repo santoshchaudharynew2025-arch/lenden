@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[53640,["/_next/static/chunks/1syhqlbjj9xc4.js"],"ViewportBoundary"]
+3:I[53640,["/_next/static/chunks/1syhqlbjj9xc4.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[93215,["/_next/static/chunks/1syhqlbjj9xc4.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"लेनदेन - हिसाब प्रबंधन ऐप"}],["$","meta","1",{"name":"description","content":"अपने सभी लेनदेन, लोन और ब्याज का हिसाब रखें"}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.2zw4jfknv86ew.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","sizes":"32x32"}],["$","link","5",{"rel":"icon","href":"/favicon.png","type":"image/png","sizes":"500x500"}],["$","link","6",{"rel":"apple-touch-icon","href":"/logo.png"}],["$","$L5","7",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pnH5kLVoaJ27awDkuHgwM"}
